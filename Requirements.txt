@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+gensim
+nltk
+beautifulsoup4
+joblib
+tqdm
+matplotlib
+
+
+install with
+pip install -r requirements.txt
