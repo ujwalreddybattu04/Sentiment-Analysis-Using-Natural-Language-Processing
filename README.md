@@ -16,7 +16,7 @@ Key goals:
 
 ---
 
-## 📁 Repository structure (recommended)
+## 📁 Repository structure (ery recommended)
 
 ```
 Sentiment-Analysis/
