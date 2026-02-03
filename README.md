@@ -1,6 +1,6 @@
 # 📘 Sentiment Analysis on Kindle Reviews
 
-A reproducible sentiment-analysis project that classifies Kindle product reviews into **Positive (1)** or **Negative (0)**. This repository demonstrates classical text representations (BOW, TF-IDF) and embedding-based representations (Word2Vec — custom & pretrained) and includes an inference script (`predict.py`) to classify new sentences.
+A reproducible sentiment-analysis project that classifies Kindle product reviews into **Positive (1)** or **Negative (0)**. This repository demonstrates classical text representations (BOW, TF-IDF) and embedding-based representations (Word2Vec — custom & pretrained) and includes an inference script (`predict.py`) to classify new sentences And to classify user text.
 
 ---
 
